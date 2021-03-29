@@ -1,0 +1,62 @@
+.chat {
+    height: 100%;
+    overflow: hidden;
+}
+.postItem {
+   
+}
+.postWrapper {
+    max-width: 90%;
+    display: inline-flex;
+    background-color: #e6e4d9;
+    border-radius: 10px;
+    position: relative;
+    margin: 10px 0;
+    align-items: center;
+    padding: 15px 20px;
+    padding-top: 0.7rem;
+    min-width: 100px;
+}
+.chatText {
+    font-size: 20px;
+    margin-top: 3px;
+}
+.chatName {
+    color: #1e232b;
+    position: absolute;
+    font-size: 9px;
+    top: 5px;
+    left: 10px;
+}
+.chatDate {
+    position: absolute;
+    font-size: 9px;
+    font-weight: 700;
+    color: #1e232b;
+    right: 9px;
+    bottom: 2px;
+}
+.chatScroll {
+    padding: 0rem 1.5rem 1rem 0.5rem;
+    margin-top: 12px;
+    overflow: hidden;
+}
+
+.asd {
+    display: flex;
+    background: red;
+    width: 35px;
+    height: 10px;
+}
+.Yremove:first-child div {
+    overflow-x: hidden !important;
+}
+
+.self {
+    display: flex;
+    justify-content: flex-end;
+}
+.selfWrap {
+    color: white;
+    background: rgba(115, 183, 68, 0.7);
+}

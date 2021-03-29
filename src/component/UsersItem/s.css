@@ -1,0 +1,40 @@
+.d-flex {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.img {
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.title {
+    font-weight: 500;
+}
+.d-flex:hover {
+    background: #e6e4d9!important;
+}
+.collection {
+    overflow: hidden !important ;
+    width: calc(100% - 1rem) !important;
+}
+.text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.textBlock {
+    overflow: hidden;
+}
+.listDate {
+    color: #1e232b;
+    font-size: 9px;
+    margin-top: 1px;
+}
+.groupTitle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

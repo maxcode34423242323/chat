@@ -1,0 +1,9 @@
+.userChat {
+    border: 3px solid #e0e0e0;
+    flex-basis: 70%;
+    padding: 1rem;
+    padding-right: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

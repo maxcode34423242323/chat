@@ -1,0 +1,10 @@
+.without {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100%;
+    height: 100%;
+}
+.without > i {
+    margin-right: 6px;
+}

@@ -1,0 +1,6 @@
+export const CHOICE_USER = 'CHOICE_USER'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const POST_USER = 'POST_USER'
+export const POST = 'POST'
+export const USER_ID = 'USER_ID'
